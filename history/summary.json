@@ -4,10 +4,10 @@
     "url": "https://detroitmi.gov",
     "icon": "https://icons.duckduckgo.com/ip3/detroitmi.gov.ico",
     "slug": "city-of-detroit",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 246,
@@ -15,7 +15,9 @@
     "timeWeek": 365,
     "timeMonth": 254,
     "timeYear": 246,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-23": 1
+    }
   },
   {
     "name": "The Neighborhoods",
@@ -59,19 +61,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/detroitatwork.com.ico",
     "slug": "detroit-at-work",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 782,
     "timeDay": 9102,
     "timeWeek": 3647,
     "timeMonth": 1115,
     "timeYear": 782,
-    "dailyMinutesDown": {
-      "2024-07-23": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Grow Detroit's Young Talent",
