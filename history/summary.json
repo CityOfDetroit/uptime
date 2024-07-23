@@ -58,10 +58,10 @@
     "url": "https://detroitatwork.com",
     "icon": "https://icons.duckduckgo.com/ip3/detroitatwork.com.ico",
     "slug": "detroit-at-work",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 318,
@@ -69,7 +69,9 @@
     "timeWeek": 355,
     "timeMonth": 288,
     "timeYear": 318,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-23": 1
+    }
   },
   {
     "name": "Grow Detroit's Young Talent",
@@ -94,19 +96,19 @@
     "url": "https://detroitstormwater.org",
     "icon": "https://icons.duckduckgo.com/ip3/detroitstormwater.org.ico",
     "slug": "green-stormwater-infrastructure",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1480,
-    "timeDay": 1621,
-    "timeWeek": 1405,
-    "timeMonth": 1393,
-    "timeYear": 1480,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 1790,
+    "timeDay": 10411,
+    "timeWeek": 3947,
+    "timeMonth": 1950,
+    "timeYear": 1790,
     "dailyMinutesDown": {
-      "2024-07-23": 0
+      "2024-07-23": 9
     }
   },
   {
