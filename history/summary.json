@@ -58,10 +58,10 @@
     "url": "https://detroitatwork.com",
     "icon": "https://icons.duckduckgo.com/ip3/detroitatwork.com.ico",
     "slug": "detroit-at-work",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 788,
@@ -69,26 +69,28 @@
     "timeWeek": 4109,
     "timeMonth": 1138,
     "timeYear": 788,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-23": 2
+    }
   },
   {
     "name": "Grow Detroit's Young Talent",
     "url": "https://gdyt.org",
     "icon": "https://icons.duckduckgo.com/ip3/gdyt.org.ico",
     "slug": "grow-detroit-s-young-talent",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 506,
-    "timeDay": 2574,
-    "timeWeek": 808,
-    "timeMonth": 542,
-    "timeYear": 506,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 963,
+    "timeDay": 14322,
+    "timeWeek": 4416,
+    "timeMonth": 1366,
+    "timeYear": 963,
     "dailyMinutesDown": {
-      "2024-07-23": 0
+      "2024-07-23": 7
     }
   },
   {
@@ -115,18 +117,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/playbook.detroitmi.gov.ico",
     "slug": "detroit-s-playbook",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 976,
     "timeDay": 208,
     "timeWeek": 1087,
     "timeMonth": 976,
     "timeYear": 976,
-    "dailyMinutesDown": {
-      "2024-07-23": 5
-    }
+    "dailyMinutesDown": {}
   }
 ]
