@@ -59,28 +59,26 @@
     "icon": "https://icons.duckduckgo.com/ip3/detroitatwork.com.ico",
     "slug": "detroit-at-work",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 788,
     "timeDay": 13446,
     "timeWeek": 4109,
     "timeMonth": 1138,
     "timeYear": 788,
-    "dailyMinutesDown": {
-      "2024-07-23": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Grow Detroit's Young Talent",
     "url": "https://gdyt.org",
     "icon": "https://icons.duckduckgo.com/ip3/gdyt.org.ico",
     "slug": "grow-detroit-s-young-talent",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -89,7 +87,9 @@
     "timeWeek": 808,
     "timeMonth": 542,
     "timeYear": 506,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-23": 0
+    }
   },
   {
     "name": "Green Stormwater Infrastructure",
@@ -114,19 +114,19 @@
     "url": "https://playbook.detroitmi.gov",
     "icon": "https://icons.duckduckgo.com/ip3/playbook.detroitmi.gov.ico",
     "slug": "detroit-s-playbook",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1022,
-    "timeDay": 270,
-    "timeWeek": 1244,
-    "timeMonth": 1022,
-    "timeYear": 1022,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 976,
+    "timeDay": 208,
+    "timeWeek": 1087,
+    "timeMonth": 976,
+    "timeYear": 976,
     "dailyMinutesDown": {
-      "2024-07-23": 0
+      "2024-07-23": 5
     }
   }
 ]
