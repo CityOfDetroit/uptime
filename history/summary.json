@@ -60,9 +60,9 @@
     "url": "https://detroitatwork.com",
     "icon": "https://icons.duckduckgo.com/ip3/detroitatwork.com.ico",
     "slug": "detroit-at-work",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "98.56%",
+    "uptimeDay": "98.55%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
@@ -116,19 +116,19 @@
     "url": "https://playbook.detroitmi.gov",
     "icon": "https://icons.duckduckgo.com/ip3/playbook.detroitmi.gov.ico",
     "slug": "detroit-s-playbook",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1162,
-    "timeDay": 254,
-    "timeWeek": 1552,
-    "timeMonth": 1162,
-    "timeYear": 1162,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 1125,
+    "timeDay": 253,
+    "timeWeek": 1434,
+    "timeMonth": 1125,
+    "timeYear": 1125,
     "dailyMinutesDown": {
-      "2024-07-26": 0
+      "2024-07-26": 6
     }
   }
 ]
