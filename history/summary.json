@@ -100,27 +100,25 @@
     "slug": "green-stormwater-infrastructure",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.73%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1950,
     "timeDay": 5126,
     "timeWeek": 4355,
     "timeMonth": 2287,
     "timeYear": 1950,
-    "dailyMinutesDown": {
-      "2024-07-26": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Detroit's Playbook",
     "url": "https://playbook.detroitmi.gov",
     "icon": "https://icons.duckduckgo.com/ip3/playbook.detroitmi.gov.ico",
     "slug": "detroit-s-playbook",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -129,6 +127,8 @@
     "timeWeek": 1552,
     "timeMonth": 1162,
     "timeYear": 1162,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-26": 0
+    }
   }
 ]
