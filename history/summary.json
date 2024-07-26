@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/theneighborhoods.org.ico",
     "slug": "the-neighborhoods",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 389,
     "timeDay": 303,
     "timeWeek": 361,
     "timeMonth": 442,
     "timeYear": 389,
-    "dailyMinutesDown": {
-      "2024-07-26": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Arts, Culture, and Entrepreneurship",
@@ -44,9 +42,9 @@
     "slug": "arts-culture-and-entrepreneurship",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "98.32%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "98.61%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
     "time": 914,
     "timeDay": 316,
@@ -54,7 +52,7 @@
     "timeMonth": 679,
     "timeYear": 914,
     "dailyMinutesDown": {
-      "2024-07-26": 24
+      "2024-07-26": 20
     }
   },
   {
@@ -62,19 +60,19 @@
     "url": "https://detroitatwork.com",
     "icon": "https://icons.duckduckgo.com/ip3/detroitatwork.com.ico",
     "slug": "detroit-at-work",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "98.79%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.98%",
-    "time": 1168,
-    "timeDay": 12979,
-    "timeWeek": 5512,
-    "timeMonth": 1877,
-    "timeYear": 1168,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.56%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.97%",
+    "time": 1394,
+    "timeDay": 13712,
+    "timeWeek": 6391,
+    "timeMonth": 2268,
+    "timeYear": 1394,
     "dailyMinutesDown": {
-      "2024-07-26": 17
+      "2024-07-26": 21
     }
   },
   {
@@ -100,19 +98,19 @@
     "url": "https://detroitstormwater.org",
     "icon": "https://icons.duckduckgo.com/ip3/detroitstormwater.org.ico",
     "slug": "green-stormwater-infrastructure",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1957,
-    "timeDay": 6922,
-    "timeWeek": 4668,
-    "timeMonth": 2310,
-    "timeYear": 1957,
+    "time": 1950,
+    "timeDay": 5126,
+    "timeWeek": 4355,
+    "timeMonth": 2287,
+    "timeYear": 1950,
     "dailyMinutesDown": {
-      "2024-07-26": 1
+      "2024-07-26": 4
     }
   },
   {
@@ -121,18 +119,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/playbook.detroitmi.gov.ico",
     "slug": "detroit-s-playbook",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1162,
     "timeDay": 254,
     "timeWeek": 1552,
     "timeMonth": 1162,
     "timeYear": 1162,
-    "dailyMinutesDown": {
-      "2024-07-26": 5
-    }
+    "dailyMinutesDown": {}
   }
 ]
