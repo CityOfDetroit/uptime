@@ -80,19 +80,19 @@
     "url": "https://gdyt.org",
     "icon": "https://icons.duckduckgo.com/ip3/gdyt.org.ico",
     "slug": "grow-detroit-s-young-talent",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1339,
-    "timeDay": 8744,
-    "timeWeek": 5776,
-    "timeMonth": 2055,
-    "timeYear": 1339,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 1323,
+    "timeDay": 6650,
+    "timeWeek": 5284,
+    "timeMonth": 2005,
+    "timeYear": 1323,
     "dailyMinutesDown": {
-      "2024-07-26": 0
+      "2024-07-26": 9
     }
   },
   {
@@ -119,18 +119,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/playbook.detroitmi.gov.ico",
     "slug": "detroit-s-playbook",
     "status": "up",
-    "uptime": "99.89%",
-    "uptimeDay": "97.69%",
-    "uptimeWeek": "99.67%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
+    "uptime": "99.92%",
+    "uptimeDay": "98.42%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
     "time": 1268,
     "timeDay": 1214,
     "timeWeek": 1605,
     "timeMonth": 1268,
     "timeYear": 1268,
     "dailyMinutesDown": {
-      "2024-07-26": 34
+      "2024-07-26": 23
     }
   }
 ]
