@@ -61,18 +61,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/detroitatwork.com.ico",
     "slug": "detroit-at-work",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "98.34%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.96%",
+    "uptimeDay": "97.94%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.96%",
     "time": 1359,
     "timeDay": 8335,
     "timeWeek": 5449,
     "timeMonth": 2157,
     "timeYear": 1359,
     "dailyMinutesDown": {
-      "2024-07-26": 24
+      "2024-07-26": 30
     }
   },
   {
@@ -98,19 +98,19 @@
     "url": "https://detroitstormwater.org",
     "icon": "https://icons.duckduckgo.com/ip3/detroitstormwater.org.ico",
     "slug": "green-stormwater-infrastructure",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1921,
-    "timeDay": 3227,
-    "timeWeek": 3656,
-    "timeMonth": 2210,
-    "timeYear": 1921,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 1940,
+    "timeDay": 3216,
+    "timeWeek": 3620,
+    "timeMonth": 2234,
+    "timeYear": 1940,
     "dailyMinutesDown": {
-      "2024-07-26": 2
+      "2024-07-26": 7
     }
   },
   {
@@ -118,19 +118,19 @@
     "url": "https://playbook.detroitmi.gov",
     "icon": "https://icons.duckduckgo.com/ip3/playbook.detroitmi.gov.ico",
     "slug": "detroit-s-playbook",
-    "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "98.41%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
-    "time": 1268,
-    "timeDay": 1214,
-    "timeWeek": 1605,
-    "timeMonth": 1268,
-    "timeYear": 1268,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "98.01%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 1256,
+    "timeDay": 1183,
+    "timeWeek": 1564,
+    "timeMonth": 1256,
+    "timeYear": 1256,
     "dailyMinutesDown": {
-      "2024-07-26": 23
+      "2024-07-26": 29
     }
   }
 ]
