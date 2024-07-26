@@ -60,19 +60,19 @@
     "url": "https://detroitatwork.com",
     "icon": "https://icons.duckduckgo.com/ip3/detroitatwork.com.ico",
     "slug": "detroit-at-work",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "98.55%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "98.10%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
-    "time": 1394,
-    "timeDay": 13712,
-    "timeWeek": 6391,
-    "timeMonth": 2268,
-    "timeYear": 1394,
+    "time": 1378,
+    "timeDay": 10381,
+    "timeWeek": 5890,
+    "timeMonth": 2215,
+    "timeYear": 1378,
     "dailyMinutesDown": {
-      "2024-07-26": 21
+      "2024-07-26": 28
     }
   },
   {
@@ -98,10 +98,10 @@
     "url": "https://detroitstormwater.org",
     "icon": "https://icons.duckduckgo.com/ip3/detroitstormwater.org.ico",
     "slug": "green-stormwater-infrastructure",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1950,
@@ -109,26 +109,28 @@
     "timeWeek": 4355,
     "timeMonth": 2287,
     "timeYear": 1950,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-26": 2
+    }
   },
   {
     "name": "Detroit's Playbook",
     "url": "https://playbook.detroitmi.gov",
     "icon": "https://icons.duckduckgo.com/ip3/playbook.detroitmi.gov.ico",
     "slug": "detroit-s-playbook",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1125,
     "timeDay": 253,
     "timeWeek": 1434,
     "timeMonth": 1125,
     "timeYear": 1125,
     "dailyMinutesDown": {
-      "2024-07-26": 6
+      "2024-07-26": 0
     }
   }
 ]
