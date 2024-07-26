@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/ace.detroitmi.gov.ico",
     "slug": "arts-culture-and-entrepreneurship",
     "status": "up",
-    "uptime": "99.48%",
-    "uptimeDay": "71.19%",
-    "uptimeWeek": "95.88%",
-    "uptimeMonth": "99.05%",
-    "uptimeYear": "99.48%",
+    "uptime": "99.49%",
+    "uptimeDay": "71.54%",
+    "uptimeWeek": "95.93%",
+    "uptimeMonth": "99.06%",
+    "uptimeYear": "99.49%",
     "time": 1073,
     "timeDay": 2526,
     "timeWeek": 1543,
     "timeMonth": 983,
     "timeYear": 1073,
     "dailyMinutesDown": {
-      "2024-07-26": 415
+      "2024-07-26": 410
     }
   },
   {
@@ -60,9 +60,9 @@
     "url": "https://detroitatwork.com",
     "icon": "https://icons.duckduckgo.com/ip3/detroitatwork.com.ico",
     "slug": "detroit-at-work",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "77.94%",
+    "uptimeDay": "77.93%",
     "uptimeWeek": "96.85%",
     "uptimeMonth": "99.27%",
     "uptimeYear": "99.60%",
@@ -117,18 +117,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/playbook.detroitmi.gov.ico",
     "slug": "detroit-s-playbook",
     "status": "up",
-    "uptime": "99.13%",
-    "uptimeDay": "81.89%",
-    "uptimeWeek": "97.41%",
-    "uptimeMonth": "99.13%",
-    "uptimeYear": "99.13%",
+    "uptime": "99.15%",
+    "uptimeDay": "82.26%",
+    "uptimeWeek": "97.47%",
+    "uptimeMonth": "99.15%",
+    "uptimeYear": "99.15%",
     "time": 2019,
     "timeDay": 3407,
     "timeWeek": 2902,
     "timeMonth": 2019,
     "timeYear": 2019,
     "dailyMinutesDown": {
-      "2024-07-26": 261
+      "2024-07-26": 256
     }
   }
 ]
