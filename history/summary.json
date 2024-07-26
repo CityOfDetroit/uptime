@@ -40,19 +40,19 @@
     "url": "https://ace.detroitmi.gov",
     "icon": "https://icons.duckduckgo.com/ip3/ace.detroitmi.gov.ico",
     "slug": "arts-culture-and-entrepreneurship",
-    "status": "down",
+    "status": "up",
     "uptime": "99.48%",
-    "uptimeDay": "71.26%",
-    "uptimeWeek": "95.89%",
-    "uptimeMonth": "99.06%",
+    "uptimeDay": "71.01%",
+    "uptimeWeek": "95.86%",
+    "uptimeMonth": "99.05%",
     "uptimeYear": "99.48%",
-    "time": 1073,
-    "timeDay": 2526,
-    "timeWeek": 1543,
-    "timeMonth": 983,
-    "timeYear": 1073,
+    "time": 1060,
+    "timeDay": 2145,
+    "timeWeek": 1434,
+    "timeMonth": 961,
+    "timeYear": 1060,
     "dailyMinutesDown": {
-      "2024-07-26": 414
+      "2024-07-26": 418
     }
   },
   {
@@ -60,10 +60,10 @@
     "url": "https://detroitatwork.com",
     "icon": "https://icons.duckduckgo.com/ip3/detroitatwork.com.ico",
     "slug": "detroit-at-work",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "77.94%",
-    "uptimeWeek": "96.85%",
+    "uptimeDay": "77.83%",
+    "uptimeWeek": "96.83%",
     "uptimeMonth": "99.27%",
     "uptimeYear": "99.60%",
     "time": 1513,
@@ -72,7 +72,7 @@
     "timeMonth": 2360,
     "timeYear": 1513,
     "dailyMinutesDown": {
-      "2024-07-26": 317
+      "2024-07-26": 319
     }
   },
   {
@@ -81,18 +81,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/gdyt.org.ico",
     "slug": "grow-detroit-s-young-talent",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 1323,
     "timeDay": 6650,
     "timeWeek": 5284,
     "timeMonth": 2005,
     "timeYear": 1323,
     "dailyMinutesDown": {
-      "2024-07-26": 3
+      "2024-07-26": 9
     }
   },
   {
@@ -118,19 +118,19 @@
     "url": "https://playbook.detroitmi.gov",
     "icon": "https://icons.duckduckgo.com/ip3/playbook.detroitmi.gov.ico",
     "slug": "detroit-s-playbook",
-    "status": "down",
-    "uptime": "99.15%",
-    "uptimeDay": "82.25%",
-    "uptimeWeek": "97.46%",
-    "uptimeMonth": "99.15%",
-    "uptimeYear": "99.15%",
-    "time": 2019,
-    "timeDay": 3407,
-    "timeWeek": 2902,
-    "timeMonth": 2019,
-    "timeYear": 2019,
+    "status": "up",
+    "uptime": "99.13%",
+    "uptimeDay": "81.79%",
+    "uptimeWeek": "97.40%",
+    "uptimeMonth": "99.13%",
+    "uptimeYear": "99.13%",
+    "time": 1965,
+    "timeDay": 3145,
+    "timeWeek": 2763,
+    "timeMonth": 1965,
+    "timeYear": 1965,
     "dailyMinutesDown": {
-      "2024-07-26": 256
+      "2024-07-26": 263
     }
   }
 ]
