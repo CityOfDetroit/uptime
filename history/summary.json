@@ -62,9 +62,9 @@
     "slug": "detroit-at-work",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "98.10%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "98.56%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
     "time": 1378,
     "timeDay": 10381,
@@ -72,7 +72,7 @@
     "timeMonth": 2215,
     "timeYear": 1378,
     "dailyMinutesDown": {
-      "2024-07-26": 28
+      "2024-07-26": 21
     }
   },
   {
@@ -80,10 +80,10 @@
     "url": "https://gdyt.org",
     "icon": "https://icons.duckduckgo.com/ip3/gdyt.org.ico",
     "slug": "grow-detroit-s-young-talent",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1351,
@@ -91,26 +91,28 @@
     "timeWeek": 6352,
     "timeMonth": 2100,
     "timeYear": 1351,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-26": 2
+    }
   },
   {
     "name": "Green Stormwater Infrastructure",
     "url": "https://detroitstormwater.org",
     "icon": "https://icons.duckduckgo.com/ip3/detroitstormwater.org.ico",
     "slug": "green-stormwater-infrastructure",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1950,
-    "timeDay": 5126,
-    "timeWeek": 4355,
-    "timeMonth": 2287,
-    "timeYear": 1950,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 1942,
+    "timeDay": 4213,
+    "timeWeek": 4093,
+    "timeMonth": 2264,
+    "timeYear": 1942,
     "dailyMinutesDown": {
-      "2024-07-26": 2
+      "2024-07-26": 10
     }
   },
   {
@@ -119,18 +121,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/playbook.detroitmi.gov.ico",
     "slug": "detroit-s-playbook",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.97%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 1125,
     "timeDay": 253,
     "timeWeek": 1434,
     "timeMonth": 1125,
     "timeYear": 1125,
     "dailyMinutesDown": {
-      "2024-07-26": 0
+      "2024-07-26": 10
     }
   }
 ]
