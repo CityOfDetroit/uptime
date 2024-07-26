@@ -40,19 +40,19 @@
     "url": "https://ace.detroitmi.gov",
     "icon": "https://icons.duckduckgo.com/ip3/ace.detroitmi.gov.ico",
     "slug": "arts-culture-and-entrepreneurship",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "98.88%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.98%",
-    "time": 932,
-    "timeDay": 167,
-    "timeWeek": 644,
-    "timeMonth": 698,
-    "timeYear": 932,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.61%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.97%",
+    "time": 925,
+    "timeDay": 337,
+    "timeWeek": 627,
+    "timeMonth": 692,
+    "timeYear": 925,
     "dailyMinutesDown": {
-      "2024-07-26": 16
+      "2024-07-26": 20
     }
   },
   {
@@ -61,19 +61,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/detroitatwork.com.ico",
     "slug": "detroit-at-work",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.00%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1168,
     "timeDay": 12979,
     "timeWeek": 5512,
     "timeMonth": 1877,
     "timeYear": 1168,
-    "dailyMinutesDown": {
-      "2024-07-26": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Grow Detroit's Young Talent",
@@ -116,9 +114,9 @@
     "url": "https://playbook.detroitmi.gov",
     "icon": "https://icons.duckduckgo.com/ip3/playbook.detroitmi.gov.ico",
     "slug": "detroit-s-playbook",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -127,6 +125,8 @@
     "timeWeek": 1864,
     "timeMonth": 1240,
     "timeYear": 1240,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-26": 0
+    }
   }
 ]
