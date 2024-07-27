@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 252,
-    "timeDay": 107,
-    "timeWeek": 349,
-    "timeMonth": 279,
-    "timeYear": 252,
+    "time": 250,
+    "timeDay": 90,
+    "timeWeek": 348,
+    "timeMonth": 280,
+    "timeYear": 250,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 389,
-    "timeDay": 303,
-    "timeWeek": 361,
-    "timeMonth": 442,
-    "timeYear": 389,
+    "time": 386,
+    "timeDay": 269,
+    "timeWeek": 353,
+    "timeMonth": 410,
+    "timeYear": 386,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "95.93%",
     "uptimeMonth": "99.06%",
     "uptimeYear": "99.49%",
-    "time": 1046,
-    "timeDay": 1863,
-    "timeWeek": 1337,
-    "timeMonth": 939,
-    "timeYear": 1046,
+    "time": 1032,
+    "timeDay": 1861,
+    "timeWeek": 1336,
+    "timeMonth": 843,
+    "timeYear": 1032,
     "dailyMinutesDown": {
       "2024-07-26": 410
     }
@@ -66,11 +66,11 @@
     "uptimeWeek": "96.66%",
     "uptimeMonth": "99.23%",
     "uptimeYear": "99.58%",
-    "time": 1838,
-    "timeDay": 8854,
+    "time": 1814,
+    "timeDay": 8855,
     "timeWeek": 6403,
     "timeMonth": 2892,
-    "timeYear": 1838,
+    "timeYear": 1814,
     "dailyMinutesDown": {
       "2024-07-26": 336
     }
@@ -81,18 +81,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/gdyt.org.ico",
     "slug": "grow-detroit-s-young-talent",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "98.13%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.97%",
-    "time": 1432,
-    "timeDay": 5377,
-    "timeWeek": 4940,
-    "timeMonth": 2141,
-    "timeYear": 1432,
+    "uptime": "99.98%",
+    "uptimeDay": "98.72%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
+    "time": 1414,
+    "timeDay": 5375,
+    "timeWeek": 4935,
+    "timeMonth": 2139,
+    "timeYear": 1414,
     "dailyMinutesDown": {
-      "2024-07-26": 27
+      "2024-07-26": 18
     }
   },
   {
@@ -106,11 +106,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1940,
-    "timeDay": 3216,
-    "timeWeek": 3620,
-    "timeMonth": 2234,
-    "timeYear": 1940,
+    "time": 1932,
+    "timeDay": 3269,
+    "timeWeek": 3646,
+    "timeMonth": 2243,
+    "timeYear": 1932,
     "dailyMinutesDown": {}
   },
   {
@@ -119,16 +119,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/playbook.detroitmi.gov.ico",
     "slug": "detroit-s-playbook",
     "status": "up",
-    "uptime": "99.15%",
+    "uptime": "99.17%",
     "uptimeDay": "82.26%",
     "uptimeWeek": "97.47%",
-    "uptimeMonth": "99.15%",
-    "uptimeYear": "99.15%",
-    "time": 1965,
+    "uptimeMonth": "99.17%",
+    "uptimeYear": "99.17%",
+    "time": 1912,
     "timeDay": 3145,
-    "timeWeek": 2763,
-    "timeMonth": 1965,
-    "timeYear": 1965,
+    "timeWeek": 2518,
+    "timeMonth": 1912,
+    "timeYear": 1912,
     "dailyMinutesDown": {
       "2024-07-26": 256
     }
