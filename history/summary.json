@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 235,
-    "timeDay": 97,
-    "timeWeek": 103,
+    "time": 232,
+    "timeDay": 70,
+    "timeWeek": 85,
     "timeMonth": 234,
-    "timeYear": 235,
+    "timeYear": 232,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 367,
-    "timeDay": 187,
-    "timeWeek": 208,
-    "timeMonth": 297,
-    "timeYear": 367,
+    "time": 365,
+    "timeDay": 237,
+    "timeWeek": 189,
+    "timeMonth": 298,
+    "timeYear": 365,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.06%",
     "uptimeYear": "99.56%",
-    "time": 996,
-    "timeDay": 151,
-    "timeWeek": 762,
-    "timeMonth": 822,
-    "timeYear": 996,
+    "time": 985,
+    "timeDay": 121,
+    "timeWeek": 742,
+    "timeMonth": 821,
+    "timeYear": 985,
     "dailyMinutesDown": {
       "2024-07-26": 410
     }
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.23%",
     "uptimeYear": "99.64%",
-    "time": 1650,
-    "timeDay": 250,
-    "timeWeek": 228,
-    "timeMonth": 2807,
-    "timeYear": 1650,
+    "time": 1630,
+    "timeDay": 123,
+    "timeWeek": 204,
+    "timeMonth": 2806,
+    "timeYear": 1630,
     "dailyMinutesDown": {
       "2024-07-26": 336
     }
@@ -86,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 1311,
-    "timeDay": 302,
-    "timeWeek": 310,
-    "timeMonth": 2066,
-    "timeYear": 1311,
+    "time": 1296,
+    "timeDay": 225,
+    "timeWeek": 285,
+    "timeMonth": 2065,
+    "timeYear": 1296,
     "dailyMinutesDown": {
       "2024-07-26": 18
     }
@@ -106,11 +106,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1869,
-    "timeDay": 1108,
-    "timeWeek": 1342,
-    "timeMonth": 2176,
-    "timeYear": 1869,
+    "time": 1866,
+    "timeDay": 1623,
+    "timeWeek": 1367,
+    "timeMonth": 2186,
+    "timeYear": 1866,
     "dailyMinutesDown": {}
   },
   {
@@ -119,16 +119,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/playbook.detroitmi.gov.ico",
     "slug": "detroit-s-playbook",
     "status": "up",
-    "uptime": "99.39%",
+    "uptime": "99.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.39%",
-    "uptimeYear": "99.39%",
-    "time": 1733,
-    "timeDay": 161,
-    "timeWeek": 980,
-    "timeMonth": 1733,
-    "timeYear": 1733,
+    "uptimeMonth": "99.41%",
+    "uptimeYear": "99.41%",
+    "time": 1697,
+    "timeDay": 147,
+    "timeWeek": 872,
+    "timeMonth": 1697,
+    "timeYear": 1697,
     "dailyMinutesDown": {
       "2024-07-26": 256
     }
