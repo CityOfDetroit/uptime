@@ -100,19 +100,19 @@
     "url": "https://detroitstormwater.org",
     "icon": "https://icons.duckduckgo.com/ip3/detroitstormwater.org.ico",
     "slug": "green-stormwater-infrastructure",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1857,
-    "timeDay": 1207,
-    "timeWeek": 1337,
-    "timeMonth": 2199,
-    "timeYear": 1857,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 2175,
+    "timeDay": 13924,
+    "timeWeek": 4500,
+    "timeMonth": 2825,
+    "timeYear": 2175,
     "dailyMinutesDown": {
-      "2024-08-06": 0
+      "2024-08-06": 10
     }
   },
   {
