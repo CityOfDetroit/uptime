@@ -4,47 +4,51 @@
     "url": "https://detroitmi.gov",
     "icon": "https://icons.duckduckgo.com/ip3/detroitmi.gov.ico",
     "slug": "city-of-detroit",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 262,
     "timeDay": 106,
     "timeWeek": 310,
     "timeMonth": 268,
     "timeYear": 262,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-31": 9
+    }
   },
   {
     "name": "The Neighborhoods",
     "url": "https://theneighborhoods.org",
     "icon": "https://icons.duckduckgo.com/ip3/theneighborhoods.org.ico",
     "slug": "the-neighborhoods",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 357,
     "timeDay": 256,
     "timeWeek": 307,
     "timeMonth": 351,
     "timeYear": 357,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-31": 8
+    }
   },
   {
     "name": "Arts, Culture, and Entrepreneurship",
     "url": "https://ace.detroitmi.gov",
     "icon": "https://icons.duckduckgo.com/ip3/ace.detroitmi.gov.ico",
     "slug": "arts-culture-and-entrepreneurship",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.81%",
     "time": 960,
     "timeDay": 223,
@@ -52,6 +56,7 @@
     "timeMonth": 784,
     "timeYear": 960,
     "dailyMinutesDown": {
+      "2024-10-31": 6,
       "2024-07-26": 410
     }
   },
@@ -60,11 +65,11 @@
     "url": "https://detroitatwork.com",
     "icon": "https://icons.duckduckgo.com/ip3/detroitatwork.com.ico",
     "slug": "detroit-at-work",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.85%",
     "time": 1015,
     "timeDay": 215,
@@ -72,6 +77,7 @@
     "timeMonth": 312,
     "timeYear": 1015,
     "dailyMinutesDown": {
+      "2024-10-31": 5,
       "2024-07-26": 336
     }
   },
@@ -80,11 +86,11 @@
     "url": "https://gdyt.org",
     "icon": "https://icons.duckduckgo.com/ip3/gdyt.org.ico",
     "slug": "grow-detroit-s-young-talent",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 923,
     "timeDay": 287,
@@ -92,6 +98,7 @@
     "timeMonth": 390,
     "timeYear": 923,
     "dailyMinutesDown": {
+      "2024-10-31": 3,
       "2024-07-26": 18
     }
   },
@@ -100,10 +107,10 @@
     "url": "https://detroitstormwater.org",
     "icon": "https://icons.duckduckgo.com/ip3/detroitstormwater.org.ico",
     "slug": "green-stormwater-infrastructure",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1845,
@@ -111,16 +118,18 @@
     "timeWeek": 1399,
     "timeMonth": 1544,
     "timeYear": 1845,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-31": 2
+    }
   },
   {
     "name": "Detroit's Playbook",
     "url": "https://playbook.detroitmi.gov",
     "icon": "https://icons.duckduckgo.com/ip3/playbook.detroitmi.gov.ico",
     "slug": "detroit-s-playbook",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
@@ -130,6 +139,7 @@
     "timeMonth": 746,
     "timeYear": 1300,
     "dailyMinutesDown": {
+      "2024-10-31": 0,
       "2024-07-26": 256
     }
   }
