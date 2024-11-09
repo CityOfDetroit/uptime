@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 262,
-    "timeDay": 93,
-    "timeWeek": 163,
-    "timeMonth": 269,
+    "timeDay": 228,
+    "timeWeek": 183,
+    "timeMonth": 268,
     "timeYear": 262,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 357,
-    "timeDay": 245,
-    "timeWeek": 323,
-    "timeMonth": 326,
-    "timeYear": 357,
+    "time": 361,
+    "timeDay": 1041,
+    "timeWeek": 440,
+    "timeMonth": 348,
+    "timeYear": 361,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
-    "time": 974,
-    "timeDay": 151,
-    "timeWeek": 1303,
-    "timeMonth": 1037,
-    "timeYear": 974,
+    "time": 969,
+    "timeDay": 159,
+    "timeWeek": 1301,
+    "timeMonth": 1034,
+    "timeYear": 969,
     "dailyMinutesDown": {
       "2024-07-26": 410
     }
@@ -61,16 +61,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/detroitatwork.com.ico",
     "slug": "detroit-at-work",
     "status": "up",
-    "uptime": "99.85%",
+    "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.85%",
-    "time": 979,
-    "timeDay": 215,
+    "uptimeYear": "99.86%",
+    "time": 974,
+    "timeDay": 177,
     "timeWeek": 243,
-    "timeMonth": 319,
-    "timeYear": 979,
+    "timeMonth": 315,
+    "timeYear": 974,
     "dailyMinutesDown": {
       "2024-07-26": 336
     }
@@ -86,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 896,
-    "timeDay": 300,
+    "time": 892,
+    "timeDay": 293,
     "timeWeek": 365,
-    "timeMonth": 399,
-    "timeYear": 896,
+    "timeMonth": 400,
+    "timeYear": 892,
     "dailyMinutesDown": {
       "2024-07-26": 18
     }
@@ -106,11 +106,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1831,
-    "timeDay": 1529,
-    "timeWeek": 1585,
-    "timeMonth": 1529,
-    "timeYear": 1831,
+    "time": 1828,
+    "timeDay": 1353,
+    "timeWeek": 1603,
+    "timeMonth": 1534,
+    "timeYear": 1828,
     "dailyMinutesDown": {}
   },
   {
@@ -124,11 +124,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
-    "time": 1235,
+    "time": 1228,
     "timeDay": 137,
-    "timeWeek": 208,
-    "timeMonth": 650,
-    "timeYear": 1235,
+    "timeWeek": 205,
+    "timeMonth": 645,
+    "timeYear": 1228,
     "dailyMinutesDown": {
       "2024-07-26": 256
     }
