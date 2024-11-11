@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 263,
-    "timeDay": 557,
+    "time": 262,
+    "timeDay": 127,
     "timeWeek": 241,
-    "timeMonth": 282,
-    "timeYear": 263,
+    "timeMonth": 283,
+    "timeYear": 262,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 362,
-    "timeDay": 495,
+    "time": 361,
+    "timeDay": 260,
     "timeWeek": 475,
     "timeMonth": 356,
-    "timeYear": 362,
+    "timeYear": 361,
     "dailyMinutesDown": {}
   },
   {
@@ -41,16 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ace.detroitmi.gov.ico",
     "slug": "arts-culture-and-entrepreneurship",
     "status": "up",
-    "uptime": "99.82%",
+    "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.82%",
-    "time": 967,
-    "timeDay": 466,
-    "timeWeek": 1337,
+    "uptimeYear": "99.83%",
+    "time": 962,
+    "timeDay": 170,
+    "timeWeek": 1155,
     "timeMonth": 1043,
-    "timeYear": 967,
+    "timeYear": 962,
     "dailyMinutesDown": {
       "2024-07-26": 410
     }
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
-    "time": 972,
-    "timeDay": 487,
-    "timeWeek": 289,
-    "timeMonth": 323,
-    "timeYear": 972,
+    "time": 967,
+    "timeDay": 135,
+    "timeWeek": 278,
+    "timeMonth": 321,
+    "timeYear": 967,
     "dailyMinutesDown": {
       "2024-07-26": 336
     }
@@ -86,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 890,
-    "timeDay": 584,
-    "timeWeek": 414,
-    "timeMonth": 408,
-    "timeYear": 890,
+    "time": 887,
+    "timeDay": 240,
+    "timeWeek": 367,
+    "timeMonth": 407,
+    "timeYear": 887,
     "dailyMinutesDown": {
       "2024-07-26": 18
     }
@@ -106,11 +106,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1826,
-    "timeDay": 1384,
+    "time": 1824,
+    "timeDay": 1586,
     "timeWeek": 1631,
-    "timeMonth": 1498,
-    "timeYear": 1826,
+    "timeMonth": 1514,
+    "timeYear": 1824,
     "dailyMinutesDown": {}
   },
   {
@@ -124,11 +124,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
-    "time": 1222,
-    "timeDay": 437,
-    "timeWeek": 247,
-    "timeMonth": 652,
-    "timeYear": 1222,
+    "time": 1214,
+    "timeDay": 155,
+    "timeWeek": 244,
+    "timeMonth": 653,
+    "timeYear": 1214,
     "dailyMinutesDown": {
       "2024-07-26": 256
     }
