@@ -4,18 +4,20 @@
     "url": "https://detroitmi.gov",
     "icon": "https://icons.duckduckgo.com/ip3/detroitmi.gov.ico",
     "slug": "city-of-detroit",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 270,
     "timeDay": 87,
     "timeWeek": 323,
-    "timeMonth": 309,
+    "timeMonth": 316,
     "timeYear": 270,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-06": 0
+    }
   },
   {
     "name": "The Neighborhoods",
@@ -119,11 +121,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/playbook.detroitmi.gov.ico",
     "slug": "detroit-s-playbook",
     "status": "up",
-    "uptime": "90.55%",
+    "uptime": "90.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "52.95%",
-    "uptimeYear": "90.55%",
+    "uptimeYear": "90.59%",
     "time": 1086,
     "timeDay": 150,
     "timeWeek": 833,
