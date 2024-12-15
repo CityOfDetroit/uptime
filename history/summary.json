@@ -4,19 +4,19 @@
     "url": "https://detroitmi.gov",
     "icon": "https://icons.duckduckgo.com/ip3/detroitmi.gov.ico",
     "slug": "city-of-detroit",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 272,
-    "timeDay": 271,
-    "timeWeek": 292,
-    "timeMonth": 311,
+    "timeDay": 247,
+    "timeWeek": 283,
+    "timeMonth": 308,
     "timeYear": 272,
     "dailyMinutesDown": {
-      "2024-12-15": 0
+      "2024-12-15": 5
     }
   },
   {
@@ -124,7 +124,7 @@
     "uptime": "91.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "58.96%",
+    "uptimeMonth": "58.97%",
     "uptimeYear": "91.11%",
     "time": 1083,
     "timeDay": 281,
