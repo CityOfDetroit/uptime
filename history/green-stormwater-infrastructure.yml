@@ -1,7 +1,7 @@
 url: https://detroitstormwater.org
-status: up
-code: 200
-responseTime: 1030
-lastUpdated: 2025-01-04T23:04:36.378Z
+status: down
+code: 503
+responseTime: 222
+lastUpdated: 2025-01-05T20:27:02.780Z
 startTime: 2024-05-31T21:55:34.549Z
 generator: Upptime <https://github.com/upptime/upptime>
