@@ -63,9 +63,9 @@
     "slug": "detroit-at-work",
     "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 777,
     "timeDay": 295,
@@ -73,7 +73,6 @@
     "timeMonth": 309,
     "timeYear": 777,
     "dailyMinutesDown": {
-      "2025-01-17": 5,
       "2024-07-26": 336
     }
   },
