@@ -81,9 +81,9 @@
     "url": "https://gdyt.org",
     "icon": "https://icons.duckduckgo.com/ip3/gdyt.org.ico",
     "slug": "grow-detroit-s-young-talent",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -93,6 +93,7 @@
     "timeMonth": 680,
     "timeYear": 789,
     "dailyMinutesDown": {
+      "2025-01-20": 0,
       "2024-07-26": 18
     }
   },
@@ -120,11 +121,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/playbook.detroitmi.gov.ico",
     "slug": "detroit-s-playbook",
     "status": "up",
-    "uptime": "92.69%",
+    "uptime": "92.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.69%",
+    "uptimeYear": "92.71%",
     "time": 1015,
     "timeDay": 530,
     "timeWeek": 343,
