@@ -1,7 +1,7 @@
 url: https://detroitmi.gov
-status: down
-code: 503
-responseTime: 122
-lastUpdated: 2025-03-10T13:51:49.818Z
+status: up
+code: 200
+responseTime: 149
+lastUpdated: 2025-03-10T13:58:08.273Z
 startTime: 2024-05-31T21:55:29.721Z
 generator: Upptime <https://github.com/upptime/upptime>
