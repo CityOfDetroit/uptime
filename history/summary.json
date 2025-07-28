@@ -22,29 +22,31 @@
     "url": "https://theneighborhoods.org",
     "icon": "https://icons.duckduckgo.com/ip3/theneighborhoods.org.ico",
     "slug": "the-neighborhoods",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 383,
     "timeDay": 107,
     "timeWeek": 301,
     "timeMonth": 365,
     "timeYear": 383,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-28": 4
+    }
   },
   {
     "name": "Arts, Culture, and Entrepreneurship",
     "url": "https://ace.detroitmi.gov",
     "icon": "https://icons.duckduckgo.com/ip3/ace.detroitmi.gov.ico",
     "slug": "arts-culture-and-entrepreneurship",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 923,
     "timeDay": 2854,
@@ -52,6 +54,7 @@
     "timeMonth": 1070,
     "timeYear": 906,
     "dailyMinutesDown": {
+      "2025-07-28": 3,
       "2025-01-08": 16
     }
   },
@@ -114,9 +117,9 @@
     "url": "https://playbook.detroitmi.gov",
     "icon": "https://icons.duckduckgo.com/ip3/playbook.detroitmi.gov.ico",
     "slug": "detroit-s-playbook",
-    "status": "up",
+    "status": "down",
     "uptime": "96.26%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.08%",
@@ -126,6 +129,7 @@
     "timeMonth": 1150,
     "timeYear": 955,
     "dailyMinutesDown": {
+      "2025-07-28": 0,
       "2024-11-28": 203,
       "2024-11-27": 1440,
       "2024-11-26": 1440,
