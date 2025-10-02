@@ -78,18 +78,20 @@
     "url": "https://gdyt.org",
     "icon": "https://icons.duckduckgo.com/ip3/gdyt.org.ico",
     "slug": "grow-detroit-s-young-talent",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 621,
-    "timeDay": 149,
-    "timeWeek": 358,
-    "timeMonth": 532,
-    "timeYear": 464,
-    "dailyMinutesDown": {}
+    "time": 627,
+    "timeDay": 1620,
+    "timeWeek": 700,
+    "timeMonth": 614,
+    "timeYear": 471,
+    "dailyMinutesDown": {
+      "2025-10-02": 0
+    }
   },
   {
     "name": "Green Stormwater Infrastructure",
